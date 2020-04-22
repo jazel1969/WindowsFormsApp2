@@ -9,6 +9,7 @@ namespace WindowsFormsApp2
     static class Program
     {
         /// <summary>
+        /// Hello World
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
