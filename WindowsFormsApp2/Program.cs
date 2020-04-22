@@ -11,6 +11,7 @@ namespace WindowsFormsApp2
         /// <summary>
         /// Hello World
         /// add second line
+        /// add 3-rd line
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
